@@ -6,7 +6,9 @@
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueChavesM&langs_count=8&theme=tokyonight" alt="Anurag's GitHub stats" align="right"></a>
+<div align="center">
+ <img src="https://readme-stats.nbank.dev/api/top-langs/?username=HenriqueChavesM&layout=compact&theme=dark" style="width: 400px;">
+</div>
 
 ## 🛠️ Skills
 
