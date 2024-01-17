@@ -2,8 +2,6 @@
 
 ## 🙍 About me:
 
-- 🌱 I’m currently learning NestJS and Clean Arch
-- ⚡ Fun fact: The name "NOT" came from a time when I used to play minecraft using the game's creator name "Notch".
 - 📫 How to reach me: <a href="https://wa.me/qr/3MDWUCCXWAJHA1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 
 <hr>
