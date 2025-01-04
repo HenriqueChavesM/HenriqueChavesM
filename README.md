@@ -2,7 +2,7 @@
 
 **`Data Science | Data Analyst | Computing Engineering`**
 
-👨‍💻 Engenheiro de Computação | Especialista em Dados
+👨‍💻 Engenheiro de Computação | Especialista em Dados <br>
 🎓 Universidade de Fortaleza (UNIFOR) | 🌎 Intercâmbio Acadêmico nos EUA (NEIU - Northeastern Illinois University)
 
 Sou um profissional de tecnologia com uma trajetória diversificada e uma sólida formação em Engenharia de Computação pela UNIFOR. Durante meus anos de estudo, mergulhei em várias áreas do ecossistema tecnológico, incluindo:
