@@ -22,7 +22,7 @@ Meu intercâmbio acadêmico nos Estados Unidos foi um marco na minha jornada, pe
 
 <p align="left">
     <a href="https://wa.me/qr/3MDWUCCXWAJHA1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
-    <a href="www.linkedin.com/in/henrique-chaves-12b443295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="whatsapp"></a>
+    <a href="https://www.linkedin.com/in/henrique-chaves-12b443295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="whatsapp"></a>
 </p>
 
 ---
