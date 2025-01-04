@@ -7,9 +7,9 @@
 
 Sou um profissional de tecnologia com uma trajetória diversificada e uma sólida formação em Engenharia de Computação pela UNIFOR. Durante meus anos de estudo, mergulhei em várias áreas do ecossistema tecnológico, incluindo:
 
--Desenvolvimento de Software: Front-end e Back-end
--Ciência e Engenharia de Dados
--Machine Learning e Inteligência Artificial
+-Desenvolvimento de Software: Front-end e Back-end <br>
+-Ciência e Engenharia de Dados <br>
+-Machine Learning e Inteligência Artificial <br>
 -Tecnologias de Hardware
 
 Meu intercâmbio acadêmico nos Estados Unidos foi um marco na minha jornada, permitindo que eu me especializasse profundamente na área de dados. Atualmente, estou focado em crescer como cientista de dados e analista, aplicando conhecimento técnico para resolver problemas complexos e gerar insights valiosos.
