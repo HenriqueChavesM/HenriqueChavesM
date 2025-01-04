@@ -111,6 +111,14 @@ Meu intercâmbio acadêmico nos Estados Unidos foi um marco na minha jornada, pe
 />
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" 
+/>
+<img 
+    align="left" 
     alt="AdobeXD" 
     title="AdobeXD"
     width="30px" 
