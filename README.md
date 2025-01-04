@@ -1,32 +1,151 @@
-# Hi there 👋, Welcome to my GitHub profile 😄
+# 👨‍💻 Henrique Chaves
 
-## 🙍 About me:
+**`Data Science | Data Analyst | Computing Engineering`**
 
-- 📫 How to reach me: <a href="https://wa.me/qr/3MDWUCCXWAJHA1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+👨‍💻 Engenheiro de Computação | Especialista em Dados
+🎓 Universidade de Fortaleza (UNIFOR) | 🌎 Intercâmbio Acadêmico nos EUA (NEIU - Northeastern Illinois University)
 
-<hr>
+Sou um profissional de tecnologia com uma trajetória diversificada e uma sólida formação em Engenharia de Computação pela UNIFOR. Durante meus anos de estudo, mergulhei em várias áreas do ecossistema tecnológico, incluindo:
 
-<div align="center">
- <img src="https://readme-stats.nbank.dev/api/top-langs/?username=HenriqueChavesM&layout=compact&theme=dark" style="width: 400px;">
-</div>
+-Desenvolvimento de Software: Front-end e Back-end
+-Ciência e Engenharia de Dados
+-Machine Learning e Inteligência Artificial
+-Tecnologias de Hardware
 
-## 🛠️ Skills
+Meu intercâmbio acadêmico nos Estados Unidos foi um marco na minha jornada, permitindo que eu me especializasse profundamente na área de dados. Atualmente, estou focado em crescer como cientista de dados e analista, aplicando conhecimento técnico para resolver problemas complexos e gerar insights valiosos.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+🚀 Sempre em busca de novos desafios e oportunidades para aprendizado contínuo.
 
-### Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+💡 Vamos colaborar? Confira meus projetos e entre em contato!
 
 
-### Design
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+<p align="left">
+    <a href="https://wa.me/qr/3MDWUCCXWAJHA1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+    <a href="www.linkedin.com/in/henrique-chaves-12b443295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="whatsapp"></a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" 
+/>
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/128/18405/18405232.png" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="AdobeXD" 
+    title="AdobeXD"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+<img src="https://readme-stats.nbank.dev/api/top-langs/?username=HenriqueChavesM&layout=compact&theme=dark" style="width: 400px;">
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=HenriqueChavesM&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueChavesM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
