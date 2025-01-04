@@ -130,7 +130,6 @@ Meu intercâmbio acadêmico nos Estados Unidos foi um marco na minha jornada, pe
 <br/>
 
 ### 📊 Estatísticas
-<img src="https://readme-stats.nbank.dev/api/top-langs/?username=HenriqueChavesM&layout=compact&theme=dark" style="width: 400px;">
 
 <p>
   <img 
