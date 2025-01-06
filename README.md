@@ -18,6 +18,27 @@ Meu intercâmbio acadêmico nos Estados Unidos foi um marco na minha jornada, pe
 
 💡 Vamos colaborar? Confira meus projetos e entre em contato!
 
+---
+
+English Version <br>
+
+👨‍💻 Computer Engineer | Data Specialist <br>
+🎓 University of Fortaleza (UNIFOR) | 🌎 Academic Exchange in the USA (NEIU - Northeastern Illinois University)
+
+I am a technology professional with a diverse background and a strong foundation in Computer Engineering from UNIFOR. During my studies, I explored various areas within the tech ecosystem, including:
+
+Software Development: Front-end and Back-end <br>
+Data Science and Engineering <br>
+Machine Learning and Artificial Intelligence <br>
+Hardware Technologies
+My academic exchange program in the United States was a pivotal moment in my journey, allowing me to gain in-depth expertise in the field of data. Currently, I am focused on advancing my career as a data scientist and analyst, applying technical knowledge to solve complex problems and generate valuable insights.
+
+🚀 Always looking for new challenges and opportunities for continuous learning.
+
+💡 Let’s collaborate! Check out my projects and get in touch!
+
+
+
 
 
 <p align="left">
